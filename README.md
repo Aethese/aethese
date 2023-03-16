@@ -1,4 +1,4 @@
-i like working on weird and personal projects lol
+working on whatever interests me in the moment
 
 [![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Aethese&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
