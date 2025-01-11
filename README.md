@@ -1,4 +1,4 @@
-working on an authentication system, a file encryption software, server scripts, and a custom database!
+working on whatever interests me in the moment
 
 [![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Aethese&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
